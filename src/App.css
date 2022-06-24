@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.column{
+  background-color: #61dafb;
+  border: solid 2px black;
+}
+.border{
+  border: solid 2px black!important;
+  font-size: ;
+}
